@@ -1,0 +1,13 @@
+gradesyou=8001,8002,8003
+gradesxiao=7001,7002,7003,7004,7005,7006
+gradeschu=6001,6002,6003
+gradesgao=5001,5002,5003
+subjectsyou=6010
+subjectsxiao=6001,6002,6005,6010,7057,7058
+subjectschu=6001,6002,6005,6003,6004,6010
+subjectsgao=6001,6002,6003,6004,6005,6006,6007,6008,6009,6010
+user=root
+password=bluedogge
+host=112.125.24.238
+database=txcourse
+port=3306
