@@ -1,0 +1,18 @@
+{   
+    "host"           : "",                                                       
+    "database"       : "txcourse",                                                                  
+    "port"           : 3306,
+    "user"           : "",                                                              
+    "password"       : "",                                                           
+    "svr_host"       : "",
+    "svr_host_local" : "",
+    "svr_filedir"    : "/data0/",
+    "svr_port"       : 9090,
+	"pre_server_ip_list" : [
+        {
+			"ip": "",
+			"type": ""
+		}
+
+    ]
+}
